@@ -1,5 +1,4 @@
-ear
-
+[
   {
     "name": "Lucas Alencar",
     "role": "CTO & Co-founder",
@@ -7,12 +6,12 @@ ear
     "profileImageURL": "https://avatars0.githubusercontent.com/u/14318858?s=400&u=ba660b5cc6d8ee94e8482af482b7e324c33ab57f&v=4"
   },
   {
-<<<<<<< HEAD
     "name": "André XXT",
     "role": "DEV de chinela",
     "description": "Brasileiro, fala portugues, but try English sometimes",
     "profileImageURL": "https://avatars2.githubusercontent.com/u/33252657?s=460&v=4"
-=======
+  },
+  {
     "name": "Daniel Vital",
     "role": "CEO & Co-founder",
     "description": "Passionate about new medical image processing and IA",
@@ -23,6 +22,5 @@ ear
     "role": "Dev",
     "description": "Passionate about new technologies, cats and dogs",
     "profileImageURL": "https://avatars0.githubusercontent.com/u/47792536?s=400&v=4"
->>>>>>> origin
   }
 ]
